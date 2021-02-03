@@ -1,0 +1,11 @@
+.valid {
+    display: flex;
+    align-items: center;
+}
+.input {
+    background: purple;
+    border: none; 
+    height: 30px;
+    outline: none;
+    margin: 0 2rem;
+}
